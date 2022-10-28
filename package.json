@@ -1,0 +1,14 @@
+{
+  "name": "backend-assessment-for-vamstar",
+  "version": "1.0.0",
+  "description": "Calculate the BMI(Body Mass Index) BMI Category and Health risk from table 1 of the person and add them as 3 new columns ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Safaid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
